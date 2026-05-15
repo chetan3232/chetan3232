@@ -69,25 +69,38 @@ Currently Working On:
 
 # 🚀 Featured Projects
 
-<p align="center">
+## 🧠 NEXO V2
+AI-powered website builder inspired by Lovable.
 
-<a href="https://github.com/chetan3232/nexo-v2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan3232&repo=nexo-v2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+🔗 https://github.com/chetan3232/nexo-v2
 
-<a href="https://github.com/chetan3232/Nexo-V3-ai">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan3232&repo=Nexo-V3-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+---
 
-<a href="https://github.com/chetan3232/convertx-pro">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan3232&repo=convertx-pro&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+## 💻 NEXO V3
+Futuristic AI IDE inspired by Cursor.
 
-<a href="https://github.com/chetan3232/StudyAi">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan3232&repo=StudyAi&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+🔗 https://github.com/chetan3232/Nexo-V3-ai
 
-</p>
+---
+
+## 📂 ConvertX-Pro
+Modern file converter platform with multi-format support.
+
+🔗 https://github.com/chetan3232/convertx-pro
+
+---
+
+## 📚 StudyAI
+AI-powered study assistant helping students learn smarter.
+
+🔗 https://github.com/chetan3232/StudyAi
+
+---
+
+## 🎤 NEXO App
+Local AI voice assistant with automation capabilities.
+
+🔗 https://github.com/chetan3232
 
 ---
 
@@ -105,15 +118,15 @@ Currently Working On:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetan3232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=chetan3232&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan3232&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chetan3232&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan3232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan3232&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -123,7 +136,7 @@ Currently Working On:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chetan3232&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chetan3232&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -133,7 +146,7 @@ Currently Working On:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chetan3232&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=chetan3232&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -143,13 +156,13 @@ Currently Working On:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI-Powered-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Powered-7B61FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-06B6D4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Futuristic-Projects-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Futuristic-Projects-9333EA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-10B981?style=for-the-badge"/>
 
 </p>
 
@@ -179,7 +192,7 @@ Currently Working On:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=chetan3232&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=chetan3232&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
 
 </p>
 
@@ -187,15 +200,11 @@ Currently Working On:
 
 # 💻 Coding Quote
 
-<p align="center">
-
 <h2 align="center">
 
 Code Today ⚡ Build Tomorrow 🚀
 
 </h2>
-
-</p>
 
 ---
 
