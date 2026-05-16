@@ -5,7 +5,7 @@
 <h1 align="center">🚀 CHETAN PATEL</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Builder • Creator of NEXO
+Full Stack Developer • AI Builder • Creator of NEXO 
 </h3>
 
 <p align="center">
