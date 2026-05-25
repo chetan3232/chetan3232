@@ -22,8 +22,8 @@ Building futuristic AI apps, IDEs, automation systems & games ⚡
 <img src="https://img.shields.io/badge/GitHub-chetan3232-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://nexo--ai.sit">
-<img src="https://img.shields.io/badge/Website-nexo--ai.sit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://nexo--ai.site">
+<img src="https://img.shields.io/badge/Website-nexo--ai.site-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/patel_chetan_323">
